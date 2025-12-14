@@ -1,6 +1,6 @@
 def main():
     n = int(input("m: "))
-    E = round(einstein(n))
+    E = einstein(n)
     print("E:", E)
 
 def einstein(n):
